@@ -39,11 +39,8 @@
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 
 <div align="center">
-  <h2>
-    📫 Контакты
-  </h2>
-  <div>([Telegram](https://t.me/None))</div>
-  <div>saparov.petr@gmail.com</div>
-  <div>([Мой сайт-портфолио](https://sps-portfolio.netlify.app/))</div>
-
+  <h2>📫 Контакты</h2>
 </div>
+
+- [Telegram](https://t.me/None)
+- [Мой сайт-портфолио](https://sps-portfolio.netlify.app/)
