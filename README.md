@@ -42,8 +42,8 @@
   <h2>
     📫 Контакты
   </h2>
-  <div>[Telegram](https://t.me/None)</div>
+  <div>([Telegram](https://t.me/None))</div>
   <div>saparov.petr@gmail.com</div>
-  <div>[Портфолио](https://sps-portfolio.netlify.app/)</div>
+  <div>([Мой сайт-портфолио](https://sps-portfolio.netlify.app/))</div>
 
 </div>
