@@ -78,6 +78,6 @@
 
  ## Контакты 📫   
 
-    [Telegram](https://t.me/None)
+    [Telegram](https://t.me/SaparovPetr)
     Почта: saparov.petr@gmail.com
     [Портфолио](https://sps-portfolio.netlify.app/)
